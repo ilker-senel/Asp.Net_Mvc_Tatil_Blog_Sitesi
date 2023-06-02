@@ -20,6 +20,7 @@ Sitenin Kendisi
 ![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/57541055-f5b2-41f9-a148-575a06e9eec8)
 ![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/1bdc8b6a-02db-42c3-a1b4-0b26b815959e)
 ![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/a3cc5336-4609-46ff-ab8e-71944b9d2f17)
+![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/f3a4673a-0e5d-49b3-b1c0-73535124fb22)
 ![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/680758ba-14d5-44ae-be1c-714cd6b35d78)
 
 
