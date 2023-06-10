@@ -14,12 +14,16 @@ Sitenin Admin Paneli
 ![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/359d4b56-5504-4f4c-a953-9fab6b6e69b0)
 ![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/ef0c6dab-e55b-4195-b72a-df3d1b7e4646)
 Sitenin Kendisi
-![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/92713fa7-bf47-4b43-90a8-fb05f07822b6)
-![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/2c54e91d-78fe-4ebd-836c-ecb0bc643f93)
-![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/81bca042-afaf-4c11-962e-81b634e3599c)
-![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/db180553-2e87-411d-a7c9-e9f11c8425fe)
-![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/699833df-daf5-4bbf-820b-b1f485f677a2)
-![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/79b1892f-fc1e-4929-87ad-e943cb6d45d4)
+![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/cfdd729c-87c7-4791-9f95-2f97bc827765)
+![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/43d40345-708e-424f-ba88-ca394a1e1154)
+![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/e5479ebb-a481-4296-8aa0-6c1dfd524cb9)
+![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/57541055-f5b2-41f9-a148-575a06e9eec8)
+![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/1bdc8b6a-02db-42c3-a1b4-0b26b815959e)
+![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/a3cc5336-4609-46ff-ab8e-71944b9d2f17)
+![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/f3a4673a-0e5d-49b3-b1c0-73535124fb22)
+![image](https://github.com/illkkeerr/Asp.Net_Mvc_Tatil_Blog_Sitesi/assets/129404140/680758ba-14d5-44ae-be1c-714cd6b35d78)
+
+
 
 
 
