@@ -1,0 +1,29 @@
+﻿
+@model TravelTripProje.Models.Sınıflar.Admin
+
+@{
+    ViewBag.Title = "AdminListesi";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>AdminListesi</h2>
+
+
+@using (Html.BeginForm("AdminGuncelle", "Admin", FormMethod.Post))
+{
+    @Html.LabelFor(x => x.Id)
+    @Html.TextBoxFor(x => x.Id, new { @class = "form-control", @readonly = "readonly" })
+    <br />
+    @Html.LabelFor(x => x.Kullanici)
+    @Html.TextBoxFor(x => x.Kullanici, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Sifre)
+    @Html.TextBoxFor(x => x.Sifre, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">Güncelle</button>
+    <br />
+}
+
+
+
+
